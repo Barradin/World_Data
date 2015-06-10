@@ -1,0 +1,48 @@
+=====================================================================
+Processing A5TransData1.txt
+SC RED  ==>>   50 RED wine       49172         [Nodes read: 3]
+SC ZIP  ==>>   62 ZIP code       49184         [Nodes read: 3]
+SC ALL  ==>>   40 ALL for 1      49162         [Nodes read: 3]
+SC CAA  ==>>   ERROR - Code not in index.      [Nodes read: 3]
+SC SAT  ==>>   06 SAT awhile     49128         [Nodes read: 1]
+SC JAZ  ==>>   ERROR - Code not in index.      [Nodes read: 3]
+SC YOU  ==>>   30 YOU & me       49152         [Nodes read: 2]
+SC DVD  ==>>   26 DVD or CD      49148         [Nodes read: 2]
+SC AAA  ==>>   ERROR - Code not in index.      [Nodes read: 3]
+SC ZZZ  ==>>   ERROR - Code not in index.      [Nodes read: 3]
+SC CON  ==>>   18 CON artist     49140         [Nodes read: 1]
+SC HAT  ==>>   59 HAT & coat     49181         [Nodes read: 2]
+SC RAT  ==>>   35 RAT you dirty  49157         [Nodes read: 2]
+SC AND  ==>>   09 AND so on      49131         [Nodes read: 2]
+SC SAM  ==>>   36 SAM Space      49158         [Nodes read: 3]
+SC YOZ  ==>>   ERROR - Code not in index.      [Nodes read: 3]
+SC WOZ  ==>>   ERROR - Code not in index.      [Nodes read: 3]
+SC CAZ  ==>>   ERROR - Code not in index.      [Nodes read: 3]
+SC BEG  ==>>   43 BEG for candy  49165         [Nodes read: 2]
+=====================================================================
+=====================================================================
+Processing A5TransData2.txt
+SC ZAP  ==>>   78 ZAP a bug      78901         [Nodes read: 1]
+SC BAR  ==>>   12 BAR none       12345         [Nodes read: 1]
+SC HOT  ==>>   56 HOT and cold   56789         [Nodes read: 1]
+SC ZIP  ==>>   ERROR - Code not in index.      [Nodes read: 1]
+SC ABE  ==>>   ERROR - Code not in index.      [Nodes read: 1]
+SC RAN  ==>>   ERROR - Code not in index.      [Nodes read: 1]
+SC RUN  ==>>   67 RUN spot run   67890         [Nodes read: 1]
+=====================================================================
+=====================================================================
+Processing A5TransData3.txt
+SC BOX  ==>>   01 BOX o bits     10001         [Nodes read: 1]
+SC BEG  ==>>   21 BEG borrow     10021         [Nodes read: 2]
+SC AAA  ==>>   ERROR - Code not in index.      [Nodes read: 2]
+SC HAM  ==>>   49 HAM spam       10049         [Nodes read: 2]
+SC ZZZ  ==>>   ERROR - Code not in index.      [Nodes read: 2]
+SC ALL  ==>>   11 ALL in fun     10011         [Nodes read: 2]
+SC HUB  ==>>   28 HUB usb        10028         [Nodes read: 2]
+SC RUN  ==>>   10 RUN spot run   10010         [Nodes read: 2]
+SC LZZ  ==>>   ERROR - Code not in index.      [Nodes read: 2]
+SC IKE  ==>>   04 IKE for Pres   10004         [Nodes read: 1]
+SC ZIP  ==>>   31 ZIP per        10031         [Nodes read: 2]
+SC LAA  ==>>   ERROR - Code not in index.      [Nodes read: 2]
+SC MUT  ==>>   ERROR - Code not in index.      [Nodes read: 2]
+=====================================================================
